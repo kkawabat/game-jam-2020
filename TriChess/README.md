@@ -1,4 +1,5 @@
-##TriChess 
+![hex board](assets/trichess_logo.png)   
+---
 TriChess is a varient of the classic game of chess except played on a triangular grid. 
 Rather than the traditional rows and columns this game is played on three diagonals making for new and interesting board configuration and piece movements
 
@@ -15,7 +16,7 @@ TriChess uses the same pieces as regular chess with familiar but different moves
 ![Tri board](assets/pieces.PNG)
 
 Because a triangle can be oriented up or down some pieces have different movesets depending on coordinate location
-below the green shows possible movement and red shows attack (for pawn)
+below the green shows possible movement and red shows attack (for pawn)  
 Pawn:  
 ![Tri board](assets/pawn.PNG)  
 Rook:  
