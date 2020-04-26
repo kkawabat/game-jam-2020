@@ -1,5 +1,5 @@
 ![hex board](assets/trichess_logo.png)   
----
+---  
 TriChess is a varient of the classic game of chess except played on a triangular grid. 
 Rather than the traditional rows and columns this game is played on three diagonals making for new and interesting board configuration and piece movements
 
@@ -10,7 +10,7 @@ Hex board (2 player):
 Tri board (3 player):     
 ![Tri board](assets/tri_board.PNG)  
 
-###Game rules
+###Game rules  
 TriChess uses the same pieces as regular chess with familiar but different movesets to regular chess.
 
 ![Tri board](assets/pieces.PNG)
@@ -30,17 +30,17 @@ Queen:
 King:  
 ![Tri board](assets/king2.PNG)![Tri board](assets/king.PNG)  
  
-###Installation
-Simply git clone the project with:
+###Installation  
+Simply git clone the project with:  
 ```
 git clone https://github.com/kkawabat/game-jam-2020.git
-```
-Then cd into the TriChess directory and run:
-```
-pipenv install
-```
-See [pipenv](https://github.com/pypa/pipenv) github page if pipenv is not installed on your system
+```  
+Then cd into the TriChess directory and run:  
+```  
+pipenv install  
+```  
+See [pipenv](https://github.com/pypa/pipenv) github page if pipenv is not installed on your system  
 
-###Running the game
-run the following command in the commandline inside of TriChess directory:
-```python main.py```
+###Running the game  
+run the following command in the commandline inside of TriChess directory:  
+```python main.py```  
